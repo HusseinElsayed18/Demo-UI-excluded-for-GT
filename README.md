@@ -24,6 +24,7 @@ A highly optimized, decoupled, and event-driven architecture built for a Unity-b
 ## 🎮 Gameplay & Interface Demo
 
 [![Watch ATM & Shopkeeper Demo Video](https://github.com/user-attachments/assets/d19c443c-d766-461b-bed8-d28589e5cf7e)]
+
 https://github.com/user-attachments/assets/d19c443c-d766-461b-bed8-d28589e5cf7e
 
 *Having browser loading issues?* 
