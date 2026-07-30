@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/d19c443c-d766-461b-bed8-d28589e5cf7e
-
 # Decoupled UI & State Architecture for an ATM & Shopkeeper System
 
 > "I designed and implemented a fully event-driven ATM and Shopkeeper transaction UI architecture from scratch in just 16 hours. Despite the rapid turnaround, I prioritized mobile-first optimization practices—such as state decoupling and data component caching—allowing the project to run at a rock-solid 120 FPS with minimal frame times."
@@ -27,7 +23,8 @@ A highly optimized, decoupled, and event-driven architecture built for a Unity-b
 
 ## 🎮 Gameplay & Interface Demo
 
-[![Watch ATM & Shopkeeper Demo Video](https://shields.io▶%20Watch%20Gameplay%20Video-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
+[![Watch ATM & Shopkeeper Demo Video](https://github.com/user-attachments/assets/d19c443c-d766-461b-bed8-d28589e5cf7e)]
+https://github.com/user-attachments/assets/d19c443c-d766-461b-bed8-d28589e5cf7e
 
 *Having browser loading issues?* 
 📂 [**Alternative Link: Access the Public Google Drive Folder**](https://google.com)
