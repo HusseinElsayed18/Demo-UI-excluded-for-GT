@@ -28,7 +28,7 @@ A highly optimized, decoupled, and event-driven architecture built for a Unity-b
 https://github.com/user-attachments/assets/d19c443c-d766-461b-bed8-d28589e5cf7e
 
 *Having browser loading issues?* 
-📂 [**Alternative Link: Access the Public Google Drive Folder**](https://google.com)
+📂 [**Alternative Link: Access the Public Google Drive Folder**](https://drive.google.com/file/d/1-FlvOdiYCP1GV_RdBwszA7wLBTpQRZ50/view?usp=drive_link)
 
 ---
 
@@ -54,6 +54,5 @@ Instead of digging through default subdirectories, you can click directly on the
 
 ---
 
-## 🔁 Complete System Data Flow (How It Works)
 
 
