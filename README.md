@@ -1,4 +1,4 @@
-# Decoupled UI & State Architecture for an ATM & Shopkeeper System
+# An ATM & Shopkeeper System
 
 > "I designed and implemented a fully event-driven ATM and Shopkeeper transaction UI architecture from scratch in just 16 hours. Despite the rapid turnaround, I prioritized mobile-first optimization practices—such as state decoupling and data component caching—allowing the project to run at a rock-solid 120 FPS with minimal frame times."
 
