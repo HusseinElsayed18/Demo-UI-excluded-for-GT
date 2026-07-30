@@ -32,27 +32,4 @@ https://github.com/user-attachments/assets/d19c443c-d766-461b-bed8-d28589e5cf7e
 
 ---
 
-## 📁 Core C# Scripts & Technical Breakdown
-
-Instead of digging through default subdirectories, you can click directly on the links below to evaluate my coding standards, design patterns, and performance handling:
-
-### 1. 🏦 [ATM.cs](https://github.com)
-* **Role in Architecture:** Handles banking transactions, processing card verification states, account balance deductions, and financial updates.
-* **Code Implementation:** Manages numeric data transformations safely, ensuring synchronization between physical interface requests and player bank records.
-
-### 2. 👥 [Player.cs](https://github.com)
-* **Role in Architecture:** Acts as the central runtime entity data model, maintaining localized states for the user's wallet inventory balance, active currencies, and world collision interaction boundaries.
-* **Optimization Strategy:** Implements clean parameter caching protocols, avoiding dynamic memory overhead during asset transfers or routine environment queries.
-
-### 3. 🏪 [ShopKeeper.cs](https://github.com)
-* **Role in Architecture:** Directs item matrix operations, controlling stock inventories, merchant interactions, and dynamic purchase/sell pricing metrics.
-* **Architecture Pattern:** Uses decoupled event signals to inform the visual UI screens when transactions clear, avoiding monolithic updates.
-
-### 4. 🔗 [Singletone.cs](https://github.com)
-* **Role in Architecture:** A reusable structural base template providing global access points for scene systems while minimizing architectural dependencies.
-* **Design Pattern:** Implements an optimized **Generic Singleton Pattern** framework to enforce secure instance allocations across managers.
-
----
-
-
 
